@@ -1,0 +1,24 @@
+body{
+  background-color: white;
+  display: block;
+}
+.green{
+  background-color: green;
+  margin-top: 20%;
+  margin-bottom: 20%;
+}
+.redText{
+   color: red;
+   padding-top: 2%;
+   padding-left: 2%;
+   padding-bottom: 2%;
+   border: black 4px dashed;
+   margin:1%;
+
+}
+.greenText{
+  color: darkgreen;
+}
+.purpleText{
+  color: purple;
+}
