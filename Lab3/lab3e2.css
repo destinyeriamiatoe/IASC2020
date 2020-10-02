@@ -1,0 +1,15 @@
+body{
+  background-color: red;
+}
+.greenTEXT{ /*green & ialic*/
+  color: green;
+  Font-style: italic;
+}
+ul#menu li{ /*inline*/
+  display: inline;
+}
+li{
+  /* font size*/
+
+  font-size: 30px;
+}
