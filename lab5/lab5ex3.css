@@ -1,0 +1,48 @@
+body{
+	background-color:white;
+}
+
+
+#wrapper{
+  height: 780px;
+	background-color:green;
+
+}
+#content1{
+  padding-top: 10px;
+	width: 280px;
+	height:230px;
+	background-color: blue;
+	margin-top: 10px;
+	margin-left: 230px;
+	float: left;
+
+
+
+}
+
+#content2{
+	  position: relative;
+		width: 280px;
+		height: 230px;
+		background-color:red;
+		margin-top: 10px;
+		margin-right: 230px;
+    float: right;
+
+		padding-top: 10px;
+
+
+
+
+	}
+	#content3{
+		width: auto 280px;
+		height:230px;
+		background-color:yellow;
+		margin: auto 575px;
+		clear: both;
+
+
+
+}
