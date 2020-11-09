@@ -1,0 +1,94 @@
+ #wrapper{
+     width:1000px;
+     height:650px;
+     background-color:green;
+     margin: 0 auto;
+ }
+
+ #pa{
+     height:70px;
+     background-color:purple;
+
+ }
+img{
+  border: 1px solid
+}
+.Header{
+  padding-top: 25px;
+  text-align:center;
+  Font-size: 25px;
+  font-weight:bold;
+  text-transform: uppercase;
+  text-decoration-line:underline;
+  color:yellow;
+}
+ .Menu{
+   color: blue;
+   text-align: center;
+   font-weight:bold;
+   font-size: 15px;
+   background-color: white;
+
+ }
+ .Address{
+   color: blue;
+   font-weight:bold;
+   font-size: 15px;
+   background-color: white;
+   text-align: center;
+ }
+#nav{
+    width: 325px;
+    float: left;
+    height: 500px;
+    background-color:#F2AA4CFF;;
+  }
+  #content{
+      float: left;
+      width:350px;
+      height: 500px;
+    }
+#reviews{
+    width: 325px;
+    height: 500px;
+    float: right;
+    background-color:#F2AA4CFF;;
+  }
+.Reviews{
+color: blue;
+ text-align: center;
+ font-weight:bold;
+ font-size: 15px;
+ background-color: white;text-align:center;
+}
+.ContactReservations{
+  color: blue;
+  text-align: center;
+  font-weight:bold;
+  font-size: 15px;
+  background-color: white;
+}
+.HoursOpen{
+  color: blue;
+  text-align: center;
+  font-weight:bold;
+  font-size: 15px;
+  background-color: white;
+}
+  #footer {
+    width: 1000px;
+    height: 10px;
+    text-align: center;
+    background-color: yellow;
+  }
+  .FOOTER{
+    text-align: center;
+    font-weight:bold;
+    font-size: 20px;
+    color:yellow;
+  }
+  .social{
+    text-align: right;
+    font-size: 20px;
+    color: yellow;
+  }
